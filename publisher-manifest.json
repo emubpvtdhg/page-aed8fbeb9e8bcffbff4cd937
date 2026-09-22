@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9a82bc1b503ad79c506f79f3",
+  "owner": "emubpvtdhg",
+  "repo": "page-aed8fbeb9e8bcffbff4cd937",
+  "title": "绵羊云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "aed8fbeb9e8bcffbff4cd937",
+      "a": "绵羊云",
+      "b": "2027官方最新地址导航",
+      "entity": "绵羊云",
+      "brand": "绵羊云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2678075f1b74af798dd1b4aa139d85e05fcf0ae264843e3e2c466076c4024d07",
+      "content": {
+        "primary_entity": "绵羊云",
+        "keyword1": "绵羊云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，绵羊云提供三档海外加速套餐，覆盖基础浏览到团队级高带宽需求。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并配备 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，支持企业定制路由。按年付各档均有优惠，用户可根据设备数量与流量消耗选择合适方案。",
+          "AI_HERO_SUBTITLE": "绵羊云海外加速套餐",
+          "AI_HERO_INTRO": "绵羊云面向需要稳定跨境网络连接的用户，提供基础版、旗舰版、团队版三档订阅方案。每档方案在流量、设备并发数和节点线路类型上有明确区分，便于按个人或团队规模匹配。客户端配置与订阅导入方式在完成服务选择后即可按对应文档设置。",
+          "AI_VISUAL_TITLE": "绵羊云加速方案",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "三档套餐覆盖不同流量与设备规模，按需匹配更实际。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "按流量周期选档",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更划算，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_3": "专项线路适配",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，按系统选择适合的订阅工具。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏，团队版适合多设备协同。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端配置的简明流程。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端类型，核对是否满足该档套餐的设备并发限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅信息，完成节点选择与连接测试。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备支持，找到适合当前需求的绵羊云方案。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "绵羊云支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "支持 Clash Verge、ClashX、Shadowrocket、Stash、Surge、v2rayN、Surfboard 等主流客户端，具体以设备系统版本为准。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备同时在线，按套餐档位区分。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案相比月付价格更优惠，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，功能权益与月付一致。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量用尽后可以升级套餐或等待下个计费周期重置。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中找到订阅配置入口，粘贴订阅链接后更新节点列表，即可完成导入并选择节点使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tnuutgp.cn",
+    "host": "tnuutgp.cn"
+  },
+  "file_hashes": {
+    "index.html": "550895a518012881147570da7279db7896f1aa4ce784536f3b5ea49c270c095a",
+    "sitemap.xml": "95ef3d0c58d61a0170e0657a9fa772cd5fcec017a5035addf02b3b75a315ce24",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "172ee2844e6da31e4eae9a4e086f36ad9ef53dcb68f773b6d7bfceb06ec7c17f",
+    "robots.txt": "c97041167b7b81bed5500160cfd9206ffdc98c8aa557ff87f84b87e24035809f",
+    "e453ebd32693e713e5383fbfdd319f6d.txt": "a289e7a7e1371b2c5ba6adfbb2841852db45eea4c2a1227a26da78eff964631a"
+  },
+  "revision": "39e7e5b3f6d0e47d9b36b61f62f5374f28c582c9b0aa16bc064a9e1d8b1a019f"
+}
